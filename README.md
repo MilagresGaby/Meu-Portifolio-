@@ -1,5 +1,5 @@
 # Meu-Portifolio-
-ATIVIDADE PRÁTICA - UNIVERSIDADE UNINTER
+ATIVIDADE PRÁTICA - Codifica + Prati
 Este código é um site de portfólio pessoal desenvolvido para Gabryella, uma desenvolvedora Front-End. O site apresenta:
 
 Estrutura Principal
