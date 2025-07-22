@@ -33,3 +33,5 @@ Estrutura organizada em seções para melhor SEO e acessibilidade
 Links para currículo em PDF e redes sociais
 
 O portfólio foi desenvolvido para destacar as habilidades de desenvolvimento de Gabryella, demonstrando tanto suas capacidades técnicas quanto sua experiência profissional anterior em administração de empresas.
+
+Você pode visualizar o portifolio completo aqui : https://vercel.com/milagresgabys-projects/meu-portifolio
