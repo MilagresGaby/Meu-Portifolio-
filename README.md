@@ -1,5 +1,6 @@
 # Meu-Portifolio-
 ATIVIDADE PRÁTICA - Codifica + Prati
+
 Este código é um site de portfólio pessoal desenvolvido para Gabryella, uma desenvolvedora Front-End. O site apresenta:
 
 Estrutura Principal
